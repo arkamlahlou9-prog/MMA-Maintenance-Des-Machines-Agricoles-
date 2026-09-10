@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arkamlahlou9-prog.github.io/MMA-Maintenance-Des-Machines-Agricoles-/sitemap.xml
